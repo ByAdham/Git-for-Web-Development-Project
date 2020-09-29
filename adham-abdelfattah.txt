@@ -1,0 +1,51 @@
+https://codepen.io/byadham/pen/wvGbdba
+
+    1. What is Semantic HTML? HTML elements that have a visible impact on a page such as section, h1, etc
+    2. What is HTML used for? Building the structure of a web page
+    3. What is an attribute and where do we put it? An attribute provide more info on a an HTML element such as href providing the URL for the anchor (link) element. In CSS attributes are characteristics you pass into a selector to style the selected element
+    4. What is the h1 tag used for? How many times should I use it on a page? For creating the largest form of "title" or "header". It should be used only once
+    5. Name two tags that have required attributes a and img
+    6. What do we put in the head of our HTML document? Meta data 
+    7. What is an id? An identification for a single specific element
+    8. What elements can I add an id to? Any element. Same ID cannot be repeated
+    9. How many times can I use the same id on a page? Once 
+    10. What is a class? An identification of multiple elements or a group i.e. class
+    11. What elements can I add a class to? Any element
+    12. How many times can I use the same class on a page? More than once
+    13. How do I get my link to open in a new tab? Add the attribute target and give it a value of "_blank" Target="_blank" 
+    14. What is the alt attribute in the image tag used for? Description
+    15. How do I reference an id? In CSS you use #
+    16. What is the difference between a section and a div? A section is semantic and contains thematic content while a div is more abstract and is not visible
+    17. What is CSS used for? Styling HTML elements
+    18. How to we select an element? Example - every h2 on the page h2 {...}
+    19. What is the difference between a class and an id? - Give me an example of when I might use each one and ID is a specific (for example) p element while a class can select all elements in a class even if they're different types of elements. If we have a specific p called " <p id ="Adham"> then #p {...} while we can have a class called lambda and use it for multiple elements so we can have <h3 class ="lambda"> and <p class="lambda">
+    20. How do we select classes in CSS? .class
+    21. How do we select a p element with a single class of “human””? 
+    22. What is a parent child selector? When would this be useful? 
+    23. How do you select all links within a div with the class of sidebar?
+    24. What is a pseudo selector?
+    25. What do we use the change the spacing between lines?
+    26. What do we use to change the spacing between letters?
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+    28. How do I add a 1px border around my div that is dotted and black?
+    29. How do I select everything on the page? 
+    30. How do I write a comment in CSS?
+    31. How do I find out what file I am in, when I am using the command line? 
+    32. Using the command line - how do I see a list of files/folders in my current folder?
+    33. How do I remove a file via the command line? Why do I have to be careful with this? 
+    34. Why should I use version control? 
+    35. How often should I commit to github?
+    36. What is the command we would use to push our repo up to github? 
+    37. Walk me through Lambda's git flow. 
+
+Stretch Questions
+
+    1. What is the difference between an inline element and a block element?
+    2. What happens when an element is positioned absolutely? 
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
+    4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+    5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+
+
+
+   --> 
